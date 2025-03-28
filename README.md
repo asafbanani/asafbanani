@@ -1,7 +1,5 @@
-## Hi there 👋, I'm Asaf!
+  ## Hi there 👋, I'm Asaf!
 A Software Engineering student at Afeka college located in TLV
-<!--
-**asafbanani/asafbanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🎓 **Second-year Software Engineering student**  
 💻 Currently working on **course projects** for my degree  
@@ -28,3 +26,6 @@ A Software Engineering student at Afeka college located in TLV
 ## 📊 GitHub Stats  
 ![Asaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asafbanani&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asafbanani&layout=compact&theme=dark)  
+<!--
+**asafbanani/asafbanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
