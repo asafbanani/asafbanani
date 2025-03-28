@@ -19,7 +19,7 @@ A Software Engineering student at Afeka college located in TLV
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
+  <a href="[https://www.open-std.org/jtc1/sc22/wg14/" target="_blank](https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank)">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   </a>
   <a href="https://www.java.com/" target="_blank">
